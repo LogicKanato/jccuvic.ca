@@ -1,20 +1,20 @@
 - id: hello
   translation: "こんにちは"
 - id: about
-  translation: "私達とは"
+  translation: "about"
 - id: blog
-  translation: "ブロク"
+  translation: "ブログ"
 - id: contact
-  translation: "連絡先"
+  translation: "contact"
 - id: signup
-  translation: "クラブ会員申し込み"
+  translation: "sign up"
 - id: blog
   translation: "ブログ"
 - id: calendar
-  translation: "カレンダー"
+  translation: "calender"
 - id: resources
-  translation: "リソース"
+  translation: "resources"
 - id: language_exchange
   translation: "言語交換" 
 - id: all-posts
-  translation: "全ポストを見る"
+  translation: "全記事を見る"
