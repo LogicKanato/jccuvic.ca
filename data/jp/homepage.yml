@@ -51,19 +51,19 @@ service:
     # service item loop
     - title : "言語交換"
       icon : "ti-world" # themify icon pack : https://themify.me/themify-icons
-      content : "日本語/英語の言語交換プログラムを開催します！ レベルに関係なく、他の学習者と練習することができます。"
+      content : "日本語/英語の言語交換プログラムを開催する事で日本語、英語学習をする方のコミュニケーションの場を設けます。"
       image: "images/character_earth_chikyu.png"
       
     # service item loop
-    - title : "社交イベント"
+    - title : "イベント"
       icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
-      content : "カラオケから花見のイベントまで、誰にとっても確かなものがあります！ また、日本および日本人コミュニティに関連するネットワーキングイベントも開催しています。"
+      content : "カラオケから花見まで、様々なイベントを開催します！ また、他の日本および日本人コミュニティとの交流会なども随時予定しています。"
       image: "images/dance_party_bus.png"
       
     # service item loop
     - title : "学生サービス"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
-      content : "日本人学生で助けが必要な場合は、日本人および留学生のコミュニティがいつでもあなたを支援します！"
+      content : "学生の方で質問やヘルプが必要な場合は、日本人および留学生のコミュニティがいつでもあなたを支援します！"
       image: "images/group_kouitten.png"
 
 
@@ -109,25 +109,25 @@ chapters:
 team:
   enable : true
   title : "リーダーシップチーム"
-  subtitle : "こちらの方がJCCの活動を担当しています。"
+  subtitle : "JCCの活動を主に担当するメンバー"
   review:
     # review item loop
-    - name : "ハーン・デ・アレクサンドリア"
+    - name : "Alexandria de Hann　(アリー)"
       image : "images/client/test-1.jpg" # image size 80*80 px
       designation : "部長"
-      content : "こちらは本人に書いてもらいましょう。"  
+      content : "JCCにおけるエリザベス女王。アオミと共にJCCを引っ張る若きリーダー。ヴィクトリア生まれのカナダ人。"  
     # review item loop
-    - name : "ジョウコウジ　アオミ"
+    - name : "Aomi Jokoji (アオミ)"
       image : "images/leadership/aomi.jpg" # image size 80*80 px
       designation : "部長"
-      content : "城光寺さんはクラブのいろいろかんりしております。日本生まれのカナダ育ち。餃子が大好きです！" 
+      content : "JCCの全ての権限を司る男(黒幕)。全てのイベントは彼から生まれ彼で終わる。日本生まれのカナダ育ちで英語/日本語のバイリンガル。大好物は餃子。" 
     # 
-    - name : "ジョウコウジ　アオミ"
+    - name : "Aomi Jokoji (アオミ)"
       image : "images/client/test-2.jpg" # image size 80*80 px
       designation : "副部長"
       content : "城光寺さんはクラブのいろいろかんりしております。日本生まれのカナダ育ち。餃子が大好きです！" 
     # 
-    - name : "ジョウコウジ　アオミ"
+    - name : "Aomi Jokoji (アオミ)"
       image : "images/client/test-2.jpg" # image size 80*80 px
       designation : "副部長"
       content : "城光寺さんはクラブのいろいろかんりしております。日本生まれのカナダ育ち。餃子が大好きです！" 
